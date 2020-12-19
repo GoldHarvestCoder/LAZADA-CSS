@@ -1,0 +1,6 @@
+@charset "UTF-8";
+/*Main CSS for Lazada Description*/
+body
+{
+color:blue;
+}
